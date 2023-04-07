@@ -1,7 +1,7 @@
 # 911s5 Proxy | 911.re Alternatives
 
 ## What is 911s5 proxy?  
-**[911S5](https://yilu.us/911s5-proxy?_blank)** Proxy Service is a Socks5 residential proxy provider taht offers IPs from over global 190 countries.  
+**<a href="https://yilu.us/911s5-proxy" target="_blank">911S5</a>** Proxy Service is a Socks5 residential proxy provider taht offers IPs from over global 190 countries.  
 Here are some images of 911 Socks5 proxy client:  
 ![911.re Program](https://www.imglink.cc/images/2023/04/07/31192fef696d99fd5258d31401b8caf9.png "911.re Program")
 ![911s5 proxy proxylist](https://www.imglink.cc/images/2023/04/07/6152ea52d2359a5a963dbdad3817066a.png "911s5 proxy proxylist")
